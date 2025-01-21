@@ -1,0 +1,20 @@
+{
+  "name": "House 10",
+  "short_name": "h10",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://cdn.prod.website-files.com/652af11d675e9e3c34d1c6e4/67900217b30184b096c895f3_Screenshot%202025-01-21%20at%203.22.37%E2%80%AFPM.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/652af11d675e9e3c34d1c6e4/67900217b30184b096c895f3_Screenshot%202025-01-21%20at%203.22.37%E2%80%AFPM.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
